@@ -6,7 +6,6 @@
 - [wdk-agent-skills](https://github.com/tetherto/wdk-agent-skills)
 - [wdk-asset-registry](https://github.com/tetherto/wdk-asset-registry)
 - [wdk-backup-cloud-react-native](https://github.com/tetherto/wdk-backup-cloud-react-native)
-- [wdk-backup-remote](https://github.com/tetherto/wdk-backup-remote)
 - [wdk-cli](https://github.com/tetherto/wdk-cli)
 - [wdk-examples](https://github.com/tetherto/wdk-examples)
 - [wdk-core-kotlin](https://github.com/tetherto/wdk-core-kotlin)
